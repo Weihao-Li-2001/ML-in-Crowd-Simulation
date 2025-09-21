@@ -1,5 +1,4 @@
 # Ignore dataset from Kaggle
-data/raw/
 
 # python cache
 __pycache__/
