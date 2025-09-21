@@ -1,0 +1,14 @@
+# Ignore dataset from Kaggle
+data/raw/
+
+# python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environmental variables
+.env
+
+# System files
+Thumbs.db
